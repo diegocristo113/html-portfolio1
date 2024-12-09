@@ -1,0 +1,85 @@
+        <!DOCTYPE html>
+        <html lang="en">
+
+<head>
+        <meta chrest="UIT8">
+        <title>Resume</title>
+</head>
+
+<body>
+        <h1>Future canidates</h1>
+<hr/>
+        <h2>Applicants software developement position</h2>
+    
+<ul>
+
+        <li>Dog</li>
+        <li>Bird</li>
+        <li>Fish</li>
+
+</ul>
+
+<hr/>
+
+        <h2>Dog</h2>
+        <img src="folder 1/dog.png" height="400" alt="Dog"/>
+        <h3><p>Skills the dog obtains...</p></h3>
+
+<ul>
+    
+        <li>Barks at unwanted coders</li>
+        <li>Does not have fingers so is unable to code</li>
+        <li>Still a puppy unfortunetly</li>
+        <li>Eats alot
+        <li>EXP 0</li>
+
+</ul>
+
+        <h3>Why would the puppy be a good candidate?</h3>
+        <p>IDK.. I guess it's personal preference</p>
+        <h3><a href=./public/contact.html>Dog contacts</a></h3>
+
+<hr/>
+
+        <h2>Bird</h2>
+        <img src="folder 1/bird.png" height="400" alt="Bird"/>
+        <h3>Skills the bird obtains</h3>
+
+<ul>
+
+        <li>Bird can fly and you can't what a dub for the bird.</li>
+        <li>The bird makes a noise which is flippen annonying when you wanna sleep in!!!</li>
+        <li>Seasonal animals so it will disapear like so people's dads unfortunetly.</li>
+        <li>EXP 10 000 at disapearing</li>
+
+</ul>
+
+        <h3>Why would the bird be a good candidate?</h3>
+        <p>Good at getting milk once a year best candidate!</p>
+        <h3><a href=./public/contact.html>Bird Contact</a></h3>
+
+<hr/>
+        <h2>Fish</h2>
+        <img src="folder 1/fish.png" height="400" alt="Fish">
+        <h3>Skills the fish obtains</h3>
+
+<ul>
+
+        <li>The fish can breath under water so yeah its aqua man</li>
+        <li>Can't survive out of water only way it will work is if u build a waterproof system for coding</li>
+        <li>Who am  joking this thing doesn't even have a toe</li>
+
+</ul>
+
+        <h3>Don't even consider yrr I'm tired </h3>
+        <p>Very bad candidate!!!</p>
+        <h3><a href=./public/contact.html>Fish Details Go to the nearest pet shop!</a></h3>
+
+        <hr/>
+
+        <h1>Thanks for you'r time bye.</h1>
+
+        </body>
+
+        </html>
+
